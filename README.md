@@ -1,0 +1,1 @@
+# socibo-bot-camel-osgi
